@@ -27,3 +27,8 @@ h1.page-header {
   background-color: #05d192;
   border-color: #00be81;
 }
+
+.btn-primary:hover {
+  background-color: #00be81;
+  border-color: #00be81;
+}
