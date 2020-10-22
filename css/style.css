@@ -32,3 +32,11 @@ h1.page-header {
   background-color: #00be81;
   border-color: #00be81;
 }
+
+div#crm-container div.label {
+  color: #333333;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
