@@ -40,3 +40,9 @@ div#crm-container div.label {
   text-align: left;
 }
 
+div#crm-container div.content {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+
